@@ -1,7 +1,7 @@
 <?php
 ini_set( 'display_errors', 1 );
 error_reporting( E_ALL );
-$to = "sabirnits15@gmail.com";
+$to = "pranjal04das@gmail.com";
 // Get data from form 
 $name = $_POST['name'];
 $email = $_POST['email'];
